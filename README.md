@@ -2,7 +2,7 @@
 A simple code file to add to a project to create a serial key
 
 # How to Use
-1. Add the code file to your project
+1. Add the code file to your project (SerialKeyGen.cs)
 2. Use the following function to create a serial key (You need the namespace DarkiyusSerialKey).
 
         SerialKey.Gen(int groups, int inGroupPieces);
